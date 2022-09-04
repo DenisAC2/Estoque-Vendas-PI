@@ -1,0 +1,23 @@
+ -- Projeto Integrador - Gerenciamento de estoque para comercios -- 
+
+ -- S.P.I. -- 
+ -- S.P.T. -- 
+ -- S.I.G. -- 
+
+ -- https://www.totvs.com/blog/negocios/sistema-de-controle-de-estoque/#:~:text=Integra%C3%A7%C3%A3o%20de%20m%C3%B3dulos,adaptar%20aos%20processos%20da%20organiza%C3%A7%C3%A3o. --  
+
+ -- Integração de módulos --
+ Outra dica é optar por sistemas de controle de estoque que tenham a possibilidade de integração com outros módulos. Assim você poderá ter uma solução mais completa e personalizada, que atenderá a todas as demandas do seu negócio. A tecnologia precisa se adaptar aos processos da organização.
+
+ -- Monitoramento e controle --
+A solução deve fazer um monitoramento em que a gestão de estoque e armazenagem sejam feitas juntas. Isso é particularmente importante para mercadorias perecíveis. Assim é possível identificar se algum produto está perto do seu prazo de validade.
+
+-- Referencias --
+ -- https://www.youtube.com/watch?v=e2FetOnxTGQ -- 
+Inicio
+ -- https://www.youtube.com/watch?v=bqpK7Ywnv6w --
+Inicio
+ -- https://www.clubedohardware.com.br/forums/topic/991781-controle-de-estoque/ -- 
+Mais por dentro
+ -- https://dfilitto.com.br/desenvolvimento/desenvolvendo-um-sistema-de-controle-de-estoque-1/ -- 
+Passo a Passo
